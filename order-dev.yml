@@ -14,4 +14,4 @@ spring:
 env: dev7
 girl:
   name: lili
-  age: 201
+  age: 20
